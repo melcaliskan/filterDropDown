@@ -8,7 +8,7 @@ Adds a dropDown element for selected columns to a Datatable allowing the user to
 The filter element extracts all unique values from a column and adds them sorted and stripped as options.
 
 Here is a screenshot showing how it looks like in action:
-![alt text](https://imgur.com/a/QNz4Ly9 "Example Screenshot of the filterDropDown with Bootstrap 4 Dropdown")
+[Bootstrap v4 Filter Example](https://imgur.com/yeqViRh)
 
 ## Features
  - Optionally works with Bootstrap 4 styling
